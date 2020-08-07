@@ -1,0 +1,117 @@
+/*start about-us*/
+
+.breadcrumb-main{
+	
+	background-color:#f7e09c;
+}
+.breadcrumb{
+	background-color:#f7e09c;
+	padding:20px 0 ;
+	margin-top:10px;
+	
+}
+
+.about-us{
+	margin-bottom:20px;
+}
+.about-us h2{
+	font-weight:bold;
+	font-size:70px;
+}
+.about-us span{
+	
+	font-size:40px;
+	display:inline-block;
+	
+}
+
+.about-us .navbar-brand span:first-child{
+	
+	font-weight:bold;
+	color:#0c5460;
+}
+
+	
+.about-us .navbar-brand span:last-child{
+	
+	
+	color:#e8c046;
+	
+	
+	
+}
+/*end about-us*/
+
+
+/*START MB */
+.MB{
+	margin-bottom:20px;
+}
+
+.MB h2{
+	
+	font-weight:bold;
+	font-size:50px;
+	
+}
+
+
+/*END MB */
+
+/*START stuff */
+.stuff{
+	margin-bottom:20px;
+}
+
+
+
+
+
+/*END stuff */
+
+/*START exist-patient */
+
+
+@media(max-width:768px){
+	 
+	div.existing img {
+
+	
+	margin:0;
+	padding:0;
+
+	
+	border:5px solid black;
+	
+	
+}
+}
+
+/*end exist-patient */
+
+/*start policies */
+.policies{
+	margin:30px;
+}
+.policies h1{
+font-size:50px;
+font-weight:bold;
+
+}
+.policies h4{
+	font-size:25px;
+font-weight:bold;
+}
+
+/*end policies */
+
+.patient{
+	margin:20px;
+}
+.patient h1{
+	font-size:60px;
+	font-weight:bold;
+}
+.patient a img{
+	margin:20px;
+}
